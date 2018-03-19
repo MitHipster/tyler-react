@@ -5,14 +5,17 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open"
-	},
-	"babel": {
-		"presets": ["env", "react"]
-	},
+  },
+  "babel": {
+    "presets": [
+      "env",
+      "react"
+    ]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MitHipster/tyler-react.git"
-	},
+  },
   "author": "Tim Acker",
   "license": "ISC",
   "bugs": {
@@ -20,6 +23,7 @@
   },
   "homepage": "https://github.com/MitHipster/tyler-react#readme",
   "dependencies": {
+    "prop-types": "^15.6.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },

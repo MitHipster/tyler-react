@@ -173,7 +173,7 @@ class Battle extends React.Component {
 }
 
 Battle.propTypes = {
-	match: PropTypes.string.isRequired
+	match: PropTypes.object.isRequired
 };
 
 module.exports = Battle;

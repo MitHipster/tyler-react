@@ -1,2 +1,2 @@
 # tyler-react
-Tyler McGinnis React Fundaments Assignment
+Tyler McGinnis React Fundamentals Assignment
